@@ -1,5 +1,7 @@
 # WebStack Memories
 
+See the app. Play around with it https://webstack-memories-app.netlify.app/
+
 Webstack Memories is a React App that allows users to: 
 * Create and store memories
 * Upload a picture along with the memory
@@ -19,3 +21,4 @@ Notable Dependecies
 Download the client
 npm install
 npm start
+
