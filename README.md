@@ -1,6 +1,7 @@
 # WebStack Memories
 
 See the app. Play around with it https://webstack-memories-app.netlify.app/
+![image](https://user-images.githubusercontent.com/19821123/107891234-37f36500-6eeb-11eb-9eb5-6ed53a5c7677.png)
 
 Webstack Memories is a React App that allows users to: 
 * Create and store memories
